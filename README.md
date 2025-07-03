@@ -125,5 +125,17 @@ This prompt is designed to make it effortless to “record → reflect,” turni
 | **Select language** | 플러그인 UI 및 메시지의 언어를 선택합니다.<br>Chooses the plugin’s UI and prompt language (`English`/`한국어`).             | 드롭다운에서 **English** 또는 **한국어** 를 선택하세요.<br>Pick your language from the dropdown menu. |
 
 
+
+## Code Attribution & Contribution
+
+This project was generated with assistance from a Large Language Model (LLM).  
+If you recognize any of your original code here, please let me know.
+
+**How to submit your contribution details**  
+- **In this project:** `path/to/file.ext:line_number`  
+- **From your repo:** `https://github.com/you/your-repo/blob/main/path/to/file.ext#Lline_number`  
+- **Contact:** unknown-bimil@gmail.com
+
+
 ## Donate - Thank you
 https://buymeacoffee.com/molllab
