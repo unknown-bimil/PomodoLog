@@ -4,7 +4,9 @@
 
 A habit-building, action-prompting Pomodoro timer that records your performance
 
----
+
+
+
 
 ## Introduction  
 PomodoLog는 일정 시간 단위로 집중 작업을 돕고, 끝날 때마다 작업 내용과 퍼포먼스를 자동으로 기록하도록 유도합니다.  
@@ -17,7 +19,9 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
 	- 하루 작업을 습관화된 로그로 남겨, 나만의 퍼포먼스 리포트를 만들 기반을 제공합니다.
 	- Build a habit of logging your tasks and performance, creating the foundation for future reports or dashboards
 
----
+
+
+
 
 ## Features  
 | 기능                                                   | 설명 및 사용자 체감 예시                                                                                                        |
@@ -27,17 +31,21 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
 | **🗒 오늘 작업 로그 사이드패널**<br>(Today’s Log on Side Panel) | 사이드바에서 하루 기록을 한눈에 확인하고 복기할 수 있어요.<br>Open the sidebar to review all your logs for the day at a glance.                |
 | **🌐 다국어 지원**<br>(Language Support)                  | 한국어·English                                                                                                           |
 
----
+
+
+
 
 ## Installation  
 1. **Obsidian** → Settings → **Community Plugins** → **Browse**  
 2. Search “PomodoLog” → **Install** → **Enable**
 
----
+
+
+
 
 ## Usage  
 
-#### Timer
+### Timer
 ![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_1.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_1.png?raw=true)
 - **시작(Start)**
     **시작** 버튼을 클릭하세요 (기본 25분; 설정에서 조정 가능)
@@ -51,7 +59,10 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
     작업을 일찍 마쳤다면 **중지** 버튼을 클릭하세요 → 즉시 기록 입력 창이 나타납니다
     Click the **Stop** button if you finish early → immediately shows the log prompt
 
-#### Performance description
+
+
+
+### Performance description
 ![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_2.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_2.png?raw=true)
 1. **타이머 종료(Timer Ends)**  
 	 지정된 시간이 끝나거나(혹은 사용자가 Stop 버튼을 눌러 세션을 마무리하면) 이 팝업이 자동으로 뜹니다.
@@ -73,14 +84,19 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
 This prompt is designed to make it effortless to “record → reflect,” turning each Pomodoro into actionable data for future review.
 
 
-#### Log data
+
+
+### Log data
 ![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_3.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_3.png?raw=true)
 * 작성한 Performance description은 **"Pomodoro Log.md"** 파일에 저장됩니다.
   The performance description you enter is saved to the **“Pomodoro Log.md”** file.
 * 저장 경로와 파일은 설정(Settings)에서 바꿀 수 있습니다.
   You can change the save path and file name in the Settings.
 
-#### Today's log on side panel 
+
+
+
+### Today's log on side panel 
 ![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_4.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_4.png?raw=true)
 * 사이드 패널(Side panel)
 	사이드 패널에서 위와 같은 요약 화면을 확인할 수 있습니다.
@@ -96,7 +112,10 @@ This prompt is designed to make it effortless to “record → reflect,” turni
 	- 📝: 작업 기록 (What you worked on)
 	- ⭐: 별점 (Your self-rating)
 
-#### Settings
+
+
+
+### Settings
 ![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_5.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_5.png?raw=true)
 
 | Field               | Description                                                                                             | How to Change                                                                        |
