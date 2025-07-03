@@ -1,6 +1,7 @@
 # 🍅 PomodoLog
 
 습관을 기록하고 퍼포먼스를 개선하는 행동 촉구형 뽀모도로 타이머
+
 A habit-building, action-prompting Pomodoro timer that records your performance
 
 ---
@@ -37,7 +38,7 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
 ## Usage  
 
 #### Timer
-![screenshot_1](https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_1.png)
+![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_1.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_1.png?raw=true)
 - **시작(Start)**
     **시작** 버튼을 클릭하세요 (기본 25분; 설정에서 조정 가능)
     Click the **Start** button (default 25 min; adjustable in Settings)
@@ -51,7 +52,7 @@ PomodoLog helps you work in focused intervals and then prompts you to log what y
     Click the **Stop** button if you finish early → immediately shows the log prompt
 
 #### Performance description
-![screenshot_2](https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_2.png)
+![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_2.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_2.png?raw=true)
 1. **타이머 종료(Timer Ends)**  
 	 지정된 시간이 끝나거나(혹은 사용자가 Stop 버튼을 눌러 세션을 마무리하면) 이 팝업이 자동으로 뜹니다.
 	 When the PomodoLog timer reaches zero (or you stop early), this popup appears automatically.
@@ -73,14 +74,14 @@ This prompt is designed to make it effortless to “record → reflect,” turni
 
 
 #### Log data
-![screenshot_3](https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_3.png)
+![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_3.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_3.png?raw=true)
 * 작성한 Performance description은 **"Pomodoro Log.md"** 파일에 저장됩니다.
   The performance description you enter is saved to the **“Pomodoro Log.md”** file.
 * 저장 경로와 파일은 설정(Settings)에서 바꿀 수 있습니다.
   You can change the save path and file name in the Settings.
 
 #### Today's log on side panel 
-![screenshot_4](https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_4.png)
+![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_4.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_4.png?raw=true)
 * 사이드 패널(Side panel)
 	사이드 패널에서 위와 같은 요약 화면을 확인할 수 있습니다.
 	You can check today's logs in the side panel
@@ -96,7 +97,7 @@ This prompt is designed to make it effortless to “record → reflect,” turni
 	- ⭐: 별점 (Your self-rating)
 
 #### Settings
-![screenshot_5](https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_5.png)
+![https://raw.githubusercontent.com/unknown-bimil/PomodoLog/master/imagesscreenshot_5.png](https://github.com/unknown-bimil/PomodoLog/blob/main/images/screenshot_5.png?raw=true)
 
 | Field               | Description                                                                                             | How to Change                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
